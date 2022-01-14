@@ -2,7 +2,7 @@ title: My awesome title
 author: stoicaan
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  My awesome description for your my site here: Welcome!
+  My awesome description for my site here: Welcome!
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
